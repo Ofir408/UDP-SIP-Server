@@ -12,6 +12,7 @@ import java.util.ArrayList;
 public class byeRequest extends Request
 {
     ArrayList<String> via;
+    
     byeRequest()
     {
         super();
