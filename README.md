@@ -7,6 +7,9 @@
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a <b>JAVA based server program</b> which handles clients. The software makes excessive use of <b>JAVA Socket API</b> to receive requests and forward respective responses. It maintains detail of registered clients i.e IP address and local port and their numbers. Upon recieveing a call request by any registered user, it generates an appropriate SIP response and forwards it its destination. This software can also act as a proxy server that can communicate as a proxy with another instance of same software running on different machine. 
 	
+	
+	ofir 
+	 test
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>This readme contains screenshots of working of the software and basic guidelines of its usage. This is an introduction as well as a step by step method of how to use this software.</b>
 
 ## Table of contents
